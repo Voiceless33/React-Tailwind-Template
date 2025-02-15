@@ -1,8 +1,10 @@
-# React + Vite
+# `React` `+` `TailwindCSS` Template
+#
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- The main reason of making this is so that you don't have to install and configure your project
+to work with `TailwindCSS` every single time.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Future plans:
+- Will be adding new components that should be in react, but are not there.
+- If you've got any ideas as to what should be added, 
+please let me know here on github, or on discord under `ancho1211`.
