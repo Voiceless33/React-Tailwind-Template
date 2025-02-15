@@ -8,3 +8,6 @@ to work with `TailwindCSS` every single time.
 - Will be adding new components that should be in react, but are not there.
 - If you've got any ideas as to what should be added, 
 please let me know here on github, or on discord under `ancho1211`.
+
+
+- Please run `npm install` or click here, after pulling this repo.
