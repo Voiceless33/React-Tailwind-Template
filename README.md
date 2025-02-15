@@ -10,4 +10,14 @@ to work with `TailwindCSS` every single time.
 please let me know here on github, or on discord under `ancho1211`.
 
 
-- Please run `npm install` or click here, after pulling this repo.
+> Please run `npm install` or click here, after pulling this repo.
+
+> To run create a dev server run `npm run dev`, or change that in your package.json.
+
+> If you wish to add other node modules run `npm install <module_name>`
+
+> If you don't know how to use TailwindCSS, here is their Documentation: 
+> 
+> `https://tailwindcss.com/docs/installation`
+> 
+>It will teach you how to use tailwind the right way and help you with everything else.
