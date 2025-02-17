@@ -7,6 +7,26 @@ export default {
     ],
     theme: {
       extend: {  
+        fontFamily: {
+            sans: ["Helvetica", "Arial", "sans-serif"],
+          },
+    
+          animation: {
+            typewriter: "typewriter 4s steps(40) 1s 1 normal both",
+            blink: "blink 0.75s step-end infinite",
+          },
+    
+          keyframes: {
+            typewriter: {
+              "0%": { width: "0" },
+              "100%": { width: "100%" },
+            },
+            blink: {
+              "0%": { borderColor: "transparent" },
+              "50%": { borderColor: "transparent" },
+              "100%": { borderColor: "black" },
+            },
+          },
         colors: {
           background: "var(--background)",
           foreground: "var(--foreground)",
